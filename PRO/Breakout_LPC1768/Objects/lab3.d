@@ -1,0 +1,10 @@
+.\objects\lab3.o: Lab3.c
+.\objects\lab3.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Device\Include\LPC17xx.H
+.\objects\lab3.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cm3.h
+.\objects\lab3.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lab3.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cminstr.h
+.\objects\lab3.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\cmsis_armcc.h
+.\objects\lab3.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cmfunc.h
+.\objects\lab3.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Device\Include\system_LPC17xx.h
+.\objects\lab3.o: GLCD.h
+.\objects\lab3.o: GLCD_UTILS.h

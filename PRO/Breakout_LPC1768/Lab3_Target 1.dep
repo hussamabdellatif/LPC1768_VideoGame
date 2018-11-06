@@ -1,0 +1,50 @@
+Dependencies for Project 'Lab3', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Font_6x8_h.h)(0x5AEF2FC4)()
+F (.\Font_16x24_h.h)(0x5AEF2FC4)()
+F (.\Font_24x16.h)(0x5AEF2FC4)()
+F (.\GLCD.h)(0x5AEF2FC4)()
+F (.\GLCD_LPC1700.c)(0x5AEF3332)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\habdella\Desktop\PRO\Lab3Files\RTE-I C:\Users\habdella\Desktop\PRO\Lab3Files\RTE\Device\LPC1768-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Device\Include-D__UVISION_VERSION="516" -D_RTE_ -DLPC175x_6x-o .\glcd_lpc1700.o --omf_browse .\glcd_lpc1700.crf --depend .\glcd_lpc1700.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Device\Include\lpc17xx.h)(0x4FF5A6B8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cm3.h)(0x57363E5E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF9EB2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cminstr.h)(0x5735D766)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\cmsis_armcc.h)(0x5735D766)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cmfunc.h)(0x5735D766)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Device\Include\system_LPC17xx.h)(0x4DA5942C)
+I (GLCD.h)(0x5AEF2FC4)
+I (Font_24x16.h)(0x5AEF2FC4)
+F (.\GLCD_UTILS.c)(0x5AEF2FC4)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\habdella\Desktop\PRO\Lab3Files\RTE-I C:\Users\habdella\Desktop\PRO\Lab3Files\RTE\Device\LPC1768-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Device\Include-D__UVISION_VERSION="516" -D_RTE_ -DLPC175x_6x-o .\glcd_utils.o --omf_browse .\glcd_utils.crf --depend .\glcd_utils.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55AF9EB2)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Device\Include\LPC17xx.H)(0x4FF5A6B8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cm3.h)(0x57363E5E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF9EB2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cminstr.h)(0x5735D766)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\cmsis_armcc.h)(0x5735D766)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cmfunc.h)(0x5735D766)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Device\Include\system_LPC17xx.h)(0x4DA5942C)
+I (GLCD.h)(0x5AEF2FC4)
+I (GLCD_UTILS.h)(0x5AEF2FC4)
+F (.\GLCD_UTILS.h)(0x5AEF2FC4)()
+F (.\Lab3.c)(0x5AF46985)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\habdella\Desktop\PRO\Lab3Files\RTE-I C:\Users\habdella\Desktop\PRO\Lab3Files\RTE\Device\LPC1768-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Device\Include-D__UVISION_VERSION="516" -D_RTE_ -DLPC175x_6x-o .\lab3.o --omf_browse .\lab3.crf --depend .\lab3.d)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Device\Include\LPC17xx.H)(0x4FF5A6B8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cm3.h)(0x57363E5E)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF9EB2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cminstr.h)(0x5735D766)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\cmsis_armcc.h)(0x5735D766)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cmfunc.h)(0x5735D766)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Device\Include\system_LPC17xx.h)(0x4DA5942C)
+I (GLCD.h)(0x5AEF2FC4)
+I (GLCD_UTILS.h)(0x5AEF2FC4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x55AF9EB2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x55AF9EB2)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x55AF9EB2)
+F (RTE\Device\LPC1768\RTE_Device.h)(0x571E337C)()
+F (RTE\Device\LPC1768\startup_LPC17xx.s)(0x584993F2)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Users\habdella\Desktop\PRO\Lab3Files\RTE-I C:\Users\habdella\Desktop\PRO\Lab3Files\RTE\Device\LPC1768-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Device\Include--pd "__UVISION_VERSION SETA 516" --pd "_RTE_ SETA 1" --pd "LPC175x_6x SETA 1"--list .\startup_lpc17xx.lst --xref -o .\startup_lpc17xx.o --depend .\startup_lpc17xx.d)
+F (RTE\Device\LPC1768\system_LPC17xx.c)(0x584993F2)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Users\habdella\Desktop\PRO\Lab3Files\RTE-I C:\Users\habdella\Desktop\PRO\Lab3Files\RTE\Device\LPC1768-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Device\Include-D__UVISION_VERSION="516" -D_RTE_ -DLPC175x_6x-o .\system_lpc17xx.o --omf_browse .\system_lpc17xx.crf --depend .\system_lpc17xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x55AF9EB2)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Device\Include\LPC17xx.h)(0x4FF5A6B8)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cm3.h)(0x57363E5E)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cminstr.h)(0x5735D766)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\cmsis_armcc.h)(0x5735D766)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cmfunc.h)(0x5735D766)
+I (C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Device\Include\system_LPC17xx.h)(0x4DA5942C)

@@ -1,0 +1,13 @@
+.\lab3.o: Lab3.c
+.\lab3.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Device\Include\LPC17xx.H
+.\lab3.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cm3.h
+.\lab3.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\lab3.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cminstr.h
+.\lab3.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\cmsis_armcc.h
+.\lab3.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cmfunc.h
+.\lab3.o: C:\Keil_v5\ARM\PACK\Keil\LPC1700_DFP\2.2.0\Device\Include\system_LPC17xx.h
+.\lab3.o: GLCD.h
+.\lab3.o: GLCD_UTILS.h
+.\lab3.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\lab3.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\lab3.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
